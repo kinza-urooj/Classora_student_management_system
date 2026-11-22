@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Sara Ahmed",
+        "roll_no": "BSCS-102",
+        "python": 94,
+        "math": 91,
+        "english": 89,
+        "attendance": 96
+    },
+    {
+        "name": "Hamza Noor",
+        "roll_no": "BSCS-103",
+        "python": 65,
+        "math": 70,
+        "english": 68,
+        "attendance": 81
+    },
+    {
+        "name": "Ayesha Malik",
+        "roll_no": "BSCS-104",
+        "python": 45,
+        "math": 52,
+        "english": 48,
+        "attendance": 75
+    },
+    {
+        "name": "arzoo",
+        "roll_no": "34",
+        "python": 76.0,
+        "math": 34.0,
+        "english": 23.0,
+        "attendance": 45.0
+    },
+    {
+        "name": "sania",
+        "roll_no": "12",
+        "python": 48.0,
+        "math": 98.0,
+        "english": 99.0,
+        "attendance": 87.0
+    },
+    {
+        "name": "jalwa",
+        "roll_no": "11",
+        "python": 78.0,
+        "math": 98.0,
+        "english": 90.0,
+        "attendance": 89.0
+    },
+    {
+        "name": "sara",
+        "roll_no": "19",
+        "python": 78.0,
+        "math": 78.0,
+        "english": 88.0,
+        "attendance": 79.0
+    }
+]

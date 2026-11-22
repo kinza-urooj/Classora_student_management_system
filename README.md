@@ -1,4 +1,4 @@
-# EduTrack — Student Management Dashboard
+#Classora — Student Management Dashboard
 
 A beginner-friendly Python + Flask mini project with a dark dashboard design.
 
